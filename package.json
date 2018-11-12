@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "cher's closet",
   "main": "index.js",
-  
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FlorenceHapgood/Wardrobe-App.git"
