@@ -4,7 +4,7 @@
   "description": "cher's closet",
   "main": "index.js",
   "scripts": {
-    
+    "test": "jasmine spec/*.js"
   },
   "repository": {
     "type": "git",
