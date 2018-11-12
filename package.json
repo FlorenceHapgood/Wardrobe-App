@@ -4,7 +4,7 @@
   "description": "cher's closet",
   "main": "index.js",
   "scripts": {
-    "test": "mocha */*.test.js"
+    
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FlorenceHapgood/Wardrobe-App/issues"
   },
-  "homepage": "https://github.com/FlorenceHapgood/Wardrobe-App#readme"
+  "homepage": "https://github.com/FlorenceHapgood/Wardrobe-App#readme",
+  "devDependencies": {
+    "jasmine": "^3.3.0"
+  }
 }
