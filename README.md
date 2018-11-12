@@ -10,8 +10,6 @@ User Stories
 
 MVP Interaction:
 
-,,,
-
 As a user,
 I can select colours on the screen,
 So I can see how they work together.
@@ -19,8 +17,6 @@ So I can see how they work together.
 As a user,
 I can see positive or negative feedback from the computer based on my decision,
 So that I don't become a fashion victim.
-
-,,,
 
 Features
 ------
