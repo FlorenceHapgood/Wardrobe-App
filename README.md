@@ -37,9 +37,9 @@ Technologies Used
 
 By
 ---
-Antonio D'aria
-Florence Hapgood
-Laura Jackson
-Cristina María Ocaña Manzano
+- Antonio D'aria
+- Florence Hapgood
+- Laura Jackson
+- Cristina María Ocaña Manzano
 
 
