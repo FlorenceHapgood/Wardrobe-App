@@ -8,7 +8,9 @@
     "url": "git+https://github.com/FlorenceHapgood/Wardrobe-App.git"
   },
   "main": "web.js",
-
+  "scripts": {
+   "test": "echo \"Error: no test specified\" && exit 1"
+ },
   "keywords": [
     "example",
     "heroku"
