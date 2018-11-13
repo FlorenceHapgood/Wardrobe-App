@@ -1,18 +1,22 @@
+
 {
   "name": "wardrobe-app",
   "version": "1.0.0",
-  "description": "cher's closet",
+  "description": "Cher's closet",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FlorenceHapgood/Wardrobe-App.git"
   },
-  "author": "",
+  "main": "web.js",
+
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "jane-doe",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FlorenceHapgood/Wardrobe-App/issues"
   },
-  "homepage": "https://github.com/FlorenceHapgood/Wardrobe-App#readme",
-  "devDependencies": {
-    "jasmine": "^3.3.0"
-  }
+  "homepage": "https://github.com/FlorenceHapgood/Wardrobe-App#readme"
 }
