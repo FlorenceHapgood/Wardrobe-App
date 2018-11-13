@@ -2,18 +2,17 @@
   "name": "wardrobe-app",
   "version": "1.0.0",
   "description": "Cher's closet",
+  "main": "views/index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FlorenceHapgood/Wardrobe-App.git"
   },
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+
+
   "dependencies": {
     "ejs": "~1.0.0",
-    "express": "~4.9.8"
+    "express": "~4.9.8",
+    "http-server": "^0.11.1"
   },
   "keywords": [
     "example",
