@@ -6,7 +6,7 @@ app.use(express.static(__dirname + '/views'));
 var port = process.env.PORT || 8080;
 
 app.get('/',function(req,res){
-  
+
   res.sendFile('views/index.html');
   //It will find and locate index.html from View or Scripts
 });
