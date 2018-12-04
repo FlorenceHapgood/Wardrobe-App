@@ -1,4 +1,4 @@
-# Wardrobe-App
+# Wardrobe-App Experiment
 
 Project description 
 ------
@@ -20,20 +20,10 @@ I can see positive or negative feedback from the computer based on my decision,
 So that I don't become a fashion victim.
 ```
 
-Features
-------
+Result
+-----
 
-How to Use
---------
-
-How to Test
--------
-
-How to Deploy
--------
-
-Technologies Used 
-------
+We experimented building this in javascript, but in the end we decided to start again with rails and then add javascript once we had our minimum viable product. 
 
 By
 ---
